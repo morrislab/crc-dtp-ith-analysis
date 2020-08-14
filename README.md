@@ -1,4 +1,3 @@
-===========
 Description
 ===========
 This repository contains Pairtree input files and analysis script for
@@ -8,7 +7,6 @@ Catherine O'Brien.
 
 Jeff Wintersinger performed this analysis.
 
-======
 Inputs
 ======
 inputs.nocna.separated: input files split into separate samples, containing
